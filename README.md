@@ -10,7 +10,7 @@ by name or starting letter and view their details.
 - Easy to extend with more countries
 
 ## 🛠 Requirements
-- Python 3.x
+- Python 3.x 
  
 ## ▶️ How to Run
 bash
