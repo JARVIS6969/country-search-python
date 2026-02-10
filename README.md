@@ -11,7 +11,7 @@ by name or starting letter and view their details.
 
 ## 🛠 Requirements
 - Python 3.x 
- 
+  
 ## ▶️ How to Run
 bash
 python country_search.py 
