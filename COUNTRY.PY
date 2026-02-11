@@ -9,7 +9,7 @@ class Country:
     print("-"*90)
 
     def __init__(self, country_name, capital, population, area):
-        """Initializes the Country object with the given attributes."""
+        """Initializes the Country object with the given attributes.""" 
         self.country_name = country_name
         self.capital = capital
         self.population = population
@@ -247,3 +247,4 @@ user_input = input("Enter a country letter or country name to search (e.g., Indi
 
 # Call the search function with the user's input
 search_simple(user_input, countries)
+
