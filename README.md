@@ -15,3 +15,4 @@ by name or starting letter and view their details.
 ## ▶️ How to Run
 bash
 python country_search.py 
+ 
