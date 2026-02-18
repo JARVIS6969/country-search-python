@@ -7,7 +7,7 @@ by name or starting letter and view their details.
 - Search countries by full name or first letter
 - Displays capital, population, and area 
 - Beginner-friendly Python code
-- Easy to extend with more countries
+- Easy to extend with more countries  
 
 ## 🛠 Requirements 
 - Python 3.x 
