@@ -3,7 +3,7 @@
 A simple Python console application that allows users to search for countries
 by name or starting letter and view their details.
 
-## 🚀 Features
+## 🚀 Features   
 - Search countries by full name or first letter
 - Displays capital, population, and area 
 - Beginner-friendly Python code
