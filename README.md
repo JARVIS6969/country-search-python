@@ -1,4 +1,4 @@
-# 🌍 Country Search Program (Python)
+ # 🌍 Country Search Program (Python)
 
 A simple Python console application that allows users to search for countries
 by name or starting letter and view their details.
@@ -16,3 +16,4 @@ by name or starting letter and view their details.
  
 python country_search.py   
   
+ 
